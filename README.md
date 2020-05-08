@@ -1,25 +1,28 @@
 # 10 Days of Javascript
-- [Day 0: Hello World!](https://www.hackerrank.com/challenges/js10-hello-world)
-- [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types)
-- [Day 1: Arithmatic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators)
-- [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function)
-- [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const)
-- [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else)
-- [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch)
-- [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops)
-- [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays)
-- [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally)
-- [Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw)
-- [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects)
-- [Day 4: Count Object](https://www.hackerrank.com/challenges/js10-count-objects)
-- [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class)
-- [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance)
-- [Day 5: Temeplete Literals](https://www.hackerrank.com/challenges/js10-template-literals)
-- [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows)
-- [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise)
-- [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date)
-- [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1)
-- [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2)
-- [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button)
-- [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container)
-- [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator)
+| Problem | Solution |
+| ------- | -------- |
+| [Day 0: Hello World!](https://www.hackerrank.com/challenges/js10-hello-world | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%200%3A%20Hello%20World!/main.js) |
+| [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%200%3A%20Data%20Types/main.js) |
+| [Day 1: Arithmatic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%201%3A%20Arithmetic%20Operators/main.js) |
+| [Day 1: Functions](https://www.hackerrank.com/challenges/js10-function | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%201%3A%20Functions/main.js) |
+| [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%201%3A%20Let%20and%20Const/main.js) |
+| [Day 2: Conditional Statements: If-Else](https://www.hackerrank.com/challenges/js10-if-else | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%202%3A%20Conditional%20Statements%3A%20If-Else/main.js) |
+| [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%202%3A%20Conditional%20Satements%3A%20Switch/main.js) |
+| [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%202%3A%20Loops/main.js) |
+| [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-arrays | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%203%3A%20Arrays/main.js) |
+| [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-try-catch-and-finally | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%203%3A%20Try%2C%20Catch%20and%20Finally/main.js) |
+| [Day 3: Throw](https://www.hackerrank.com/challenges/js10-throw | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%203%3A%20Throw/main.js) |
+| [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-objects | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%204%3A%20Create%20a%20Rectangle%20Object/main.js) |
+| [Day 4: Count Object](https://www.hackerrank.com/challenges/js10-count-objects | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%204%3A%20Count%20Objects/main.js) |
+| [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%204%3A%20Classes/main.js) |
+| [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%205%3A%20Inheritance/main.js) |
+| [Day 5: Temeplete Literals](https://www.hackerrank.com/challenges/js10-template-literals | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%205%3A%20Template%20Literals/main.js) |
+| [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%205%3A%20Arrow%20Functions/main.js) |
+| [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%206%3A%20Bitwise%20Operators/main.js) |
+| [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%206%3A%20JavaScript%20Dates/main.js) |
+| [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1 | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%207%3A%20Regular%20Expression%20I/main.js) |
+| [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2 | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%207%3A%20Regular%20Expression%20II/main.js) |
+| [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3 | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%207%3A%20Regular%20Expression%20III/main.js) |
+| [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button | [index.html](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%208%3A%20Create%20a%20Button/index.html), [button.css](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%208%3A%20Create%20a%20Button/css/button.css), [button.js](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%208%3A%20Create%20a%20Button/js/button.js) |
+| [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container | [index.html](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%208%3A%20Buttons%20Container/index.html), [buttonGrid.css](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%208%3A%20Buttons%20Container/css/buttonsGrid.css), [buttonGrid.js](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%208%3A%20Buttons%20Container/js/buttonsGrid.js) |
+| [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator | [index.html](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%209%3A%20Binary%20Calculator/index.html), [binaryCalculator.css](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%209%3A%20Binary%20Calculator/css/binaryCalculator.css), [binaryCalculator.js](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%209%3A%20Binary%20Calculator/js/binaryCalculator.js) |

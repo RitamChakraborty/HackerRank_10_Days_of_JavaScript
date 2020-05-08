@@ -1,39 +1,39 @@
 'use strict';
 
-process.stdin.resume();
-process.stdin.setEncoding('utf-8');
+process.stdin.resume( |  |;
+process.stdin.setEncoding('utf-8' |  |;
 
 let inputString = '';
 let currentLine = 0;
 
 process.stdin.on('data', inputStdin => {
     inputString += inputStdin;
-});
+} |  |;
 
 process.stdin.on('end', _ => {
-    inputString = inputString.trim().split('\n').map(string => {
-        return string.trim();
-    });
+    inputString = inputString.trim( |  |.split('\n' |  |.map(string => {
+        return string.trim( |  |;
+    } |  |;
 
-    main();
-});
+    main( |  |;
+} |  |;
 
-function readLine() {
+function readLine( |  | {
     return inputString[currentLine++];
 }
 
-function regexVar() {
+function regexVar( |  | {
     return /\d+/g;
 }
 
 
-function main() {
-    const re = regexVar();
-    const s = readLine();
+function main( |  | {
+    const re = regexVar( |  |;
+    const s = readLine( |  |;
 
-    const r = s.match(re);
+    const r = s.match(re |  |;
 
-    for (const e of r) {
-        console.log(e);
+    for (const e of r |  | {
+        console.log(e |  |;
     }
 }

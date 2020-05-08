@@ -1,35 +1,35 @@
 'use strict';
 
-process.stdin.resume();
-process.stdin.setEncoding('utf-8');
+process.stdin.resume( |  |;
+process.stdin.setEncoding('utf-8' |  |;
 
 let inputString = '';
 let currentLine = 0;
 
 process.stdin.on('data', inputStdin => {
     inputString += inputStdin;
-});
+} |  |;
 
 process.stdin.on('end', _ => {
-    inputString = inputString.trim().split('\n').map(string => {
-        return string.trim();
-    });
+    inputString = inputString.trim( |  |.split('\n' |  |.map(string => {
+        return string.trim( |  |;
+    } |  |;
 
-    main();
-});
+    main( |  |;
+} |  |;
 
-function readLine() {
+function readLine( |  | {
     return inputString[currentLine++];
 }
 
-function regexVar() {
-    return /^(Mr|Mrs|Ms|Dr|Er)\.[a-zA-Z]+$/g;
+function regexVar( |  | {
+    return /^(Mr|Mrs|Ms|Dr|Er |  |\.[a-zA-Z]+$/g;
 }
 
 
-function main() {
-    const re = regexVar();
-    const s = readLine();
+function main( |  | {
+    const re = regexVar( |  |;
+    const s = readLine( |  |;
 
-    console.log(re.test(s));
+    console.log(re.test(s |  | |  |;
 }

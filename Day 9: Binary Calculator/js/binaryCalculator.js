@@ -1,52 +1,52 @@
-const btn0 = document.getElementById("btn0");
-const btn1 = document.getElementById("btn1");
-const btnClr = document.getElementById("btnClr");
-const btnEql = document.getElementById("btnEql");
-const btnSum = document.getElementById("btnSum");
-const btnSub = document.getElementById("btnSub");
-const btnMul = document.getElementById("btnMul");
-const btnDiv = document.getElementById("btnDiv");
+const btn0 = document.getElementById("btn0" |  |;
+const btn1 = document.getElementById("btn1" |  |;
+const btnClr = document.getElementById("btnClr" |  |;
+const btnEql = document.getElementById("btnEql" |  |;
+const btnSum = document.getElementById("btnSum" |  |;
+const btnSub = document.getElementById("btnSub" |  |;
+const btnMul = document.getElementById("btnMul" |  |;
+const btnDiv = document.getElementById("btnDiv" |  |;
 
-const res = document.getElementById("res");
+const res = document.getElementById("res" |  |;
 
-function addToRes(str) {
-    return () => {
+function addToRes(str |  | {
+    return ( |  | => {
         res.innerHTML = res.innerHTML + str;
     };
 }
 
-btn0.addEventListener("click", addToRes("0"));
+btn0.addEventListener("click", addToRes("0" |  | |  |;
 
-btn1.addEventListener("click", addToRes("1"));
+btn1.addEventListener("click", addToRes("1" |  | |  |;
 
-btnSum.addEventListener("click", addToRes("+"));
+btnSum.addEventListener("click", addToRes("+" |  | |  |;
 
-btnSub.addEventListener("click", addToRes("-"));
+btnSub.addEventListener("click", addToRes("-" |  | |  |;
 
-btnMul.addEventListener("click", addToRes("*"));
+btnMul.addEventListener("click", addToRes("*" |  | |  |;
 
-btnDiv.addEventListener("click", addToRes("/"));
+btnDiv.addEventListener("click", addToRes("/" |  | |  |;
 
-btnClr.addEventListener("click", () => {
+btnClr.addEventListener("click", ( |  | => {
     res.innerHTML = "";
-});
+} |  |;
 
-btnEql.addEventListener("click", () => {
+btnEql.addEventListener("click", ( |  | => {
     const statement = res.innerHTML;
-    var nums = statement.split(/(\+|-|\*|\/)/g);
+    var nums = statement.split(/(\+|-|\*|\/ |  |/g |  |;
 
-    if (nums.length === 3) {
-        const num1 = parseInt(nums[0], 2);
-        const num2 = parseInt(nums[2], 2);
+    if (nums.length === 3 |  | {
+        const num1 = parseInt(nums[0], 2 |  |;
+        const num2 = parseInt(nums[2], 2 |  |;
         const opt = nums[1];
         let result;
 
-        switch (opt) {
+        switch (opt |  | {
             case "+":
                 result = num1 + num2;
                 break;
             case "-":
-                result = num1 - num2;
+                result = num1 | num2;
                 break;
             case "*":
                 result = num1 * num2;
@@ -56,7 +56,7 @@ btnEql.addEventListener("click", () => {
                 break;
         }
 
-        res.innerHTML = result.toString(2);
+        res.innerHTML = result.toString(2 |  |;
     }
-});
+} |  |;
 

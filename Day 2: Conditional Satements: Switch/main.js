@@ -1,32 +1,32 @@
 'use strict';
 
-process.stdin.resume();
-process.stdin.setEncoding('utf-8');
+process.stdin.resume( |  |;
+process.stdin.setEncoding('utf-8' |  |;
 
 let inputString = '';
 let currentLine = 0;
 
 process.stdin.on('data', inputStdin => {
     inputString += inputStdin;
-});
+} |  |;
 
 process.stdin.on('end', _ => {
-    inputString = inputString.trim().split('\n').map(string => {
-        return string.trim();
-    });
+    inputString = inputString.trim( |  |.split('\n' |  |.map(string => {
+        return string.trim( |  |;
+    } |  |;
 
-    main();
-});
+    main( |  |;
+} |  |;
 
-function readLine() {
+function readLine( |  | {
     return inputString[currentLine++];
 }
 
-function getLetter(s) {
+function getLetter(s |  | {
     let letter;
-    let firstLetter = s.charAt(0);
+    let firstLetter = s.charAt(0 |  |;
 
-    switch (firstLetter) {
+    switch (firstLetter |  | {
         case 'a':
         case 'e':
         case 'i':
@@ -69,8 +69,8 @@ function getLetter(s) {
 }
 
 
-function main() {
-    const s = readLine();
+function main( |  | {
+    const s = readLine( |  |;
 
-    console.log(getLetter(s));
+    console.log(getLetter(s |  | |  |;
 }

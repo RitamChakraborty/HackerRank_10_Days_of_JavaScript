@@ -1,14 +1,14 @@
 var count = 0;
-main();
+main( |  |;
 
-function main() {
-    const btn = document.getElementById("btn");
+function main( |  | {
+    const btn = document.getElementById("btn" |  |;
     btn.innerHTML = count;
-    btn.addEventListener("click", incrementCounter(btn, count));
+    btn.addEventListener("click", incrementCounter(btn, count |  | |  |;
 }
 
-function incrementCounter(btn) {
-    return () => {
+function incrementCounter(btn |  | {
+    return ( |  | => {
         btn.innerHTML = ++count;
     }
 }
