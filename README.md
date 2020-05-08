@@ -1,4 +1,4 @@
-# 10 Days of Javascript
+# [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 | Problem | Solution |
 | ------- | -------- |
 | [Day 0: Hello World!](https://www.hackerrank.com/challenges/js10-hello-world) | [Code](https://github.com/RitamChakraborty/HackerRank_10_Days_of_JavaScript/blob/master/Day%200%3A%20Hello%20World!/main.js) |
